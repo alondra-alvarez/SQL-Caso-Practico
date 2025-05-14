@@ -1,6 +1,6 @@
 # SQL-Caso-Practico
 ## CONTEXTO  
-En este repositorio se presenta el análisis mediante SQL de las transacciones de un restaurante "Sabores del mundo"  para evaluar un nuevo menu que lanzaron a principios de año
+En este repositorio se presenta el análisis mediante SQL de las transacciones de un restaurante "Sabores del mundo"  para evaluar un nuevo menú que lanzaron a principios de año
 ## OBJETIVO
 Identificar cuales son los productos del menú que han tenido más exito y cuales son los que menos han gustado a los clientes ,Identificando areas de oportunidad y en general aprovechar al maximo sus datos para optimizar sus ventas
 ## PASOS GENERALES
