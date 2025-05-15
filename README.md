@@ -28,4 +28,13 @@ Identificar cuales son los productos del menú que han tenido más exito y cuale
  restaurante en el lanzamiento de su nuevo menú
 
 ## CONCLUSIONES
-
+1. Despues de un analisis exploratorio se obtuvo lo siguiente:  
+   - Son un total de 32 articulos en el menu con un precio promedio de ***<ins>$13.29<ins>*** de los cuales el mas caro es ***Shrimp Scampi*** con un precio de ***<ins>$19.95<ins>*** y el mas barato es ***Edamame*** con un costo de ***<ins>$5.00<ins>***
+   - El menu ofrece diferentes platillos provenientes de diferentes paises de los cuales ***6*** entran la categoria de ***<ins>"american"<ins>***
+     
+4. Despues del analisis de transacciones se obtuvo lo siguiente:  
+   - Se hicieron un total de ***12,234*** pedidos unicos entre el ***1 de enero al 31 de marzo*** de los cuales el mayor numero de articulos por pedido fueron ***<ins>14 articulos<ins>***  
+   - Los productos más vendidos son la ***<ins>hamburguesa y el adamame<ins>*** y los menos vendidos son los ***<ins>potstickers y chiken takos<ins>***  
+   - De las ***4*** categorias de platillos las ventas se presentaron en el siguiente orden donde el primero es el que mas ventas tuvo ***<ins>Asian,Italian,Mexican,American<ins>***
+   - 
+   
