@@ -32,9 +32,14 @@ Identificar cuales son los productos del menú que han tenido más exito y cuale
    - Son un total de 32 articulos en el menu con un precio promedio de ***<ins>$13.29<ins>*** de los cuales el mas caro es ***Shrimp Scampi*** con un precio de ***<ins>$19.95<ins>*** y el mas barato es ***Edamame*** con un costo de ***<ins>$5.00<ins>***
    - El menu ofrece diferentes platillos provenientes de diferentes paises de los cuales ***6*** entran la categoria de ***<ins>"american"<ins>***
      
-4. Despues del analisis de transacciones se obtuvo lo siguiente:  
+2. Despues del analisis de transacciones se obtuvo lo siguiente:  
    - Se hicieron un total de ***12,234*** pedidos unicos entre el ***1 de enero al 31 de marzo*** de los cuales el mayor numero de articulos por pedido fueron ***<ins>14 articulos<ins>***  
    - Los productos más vendidos son la ***<ins>hamburguesa y el adamame<ins>*** y los menos vendidos son los ***<ins>potstickers y chiken takos<ins>***  
    - De las ***4*** categorias de platillos las ventas se presentaron en el siguiente orden donde el primero es el que mas ventas tuvo ***<ins>Asian,Italian,Mexican,American<ins>***
-   - 
+   - Los horarios con mayor afluencia de peedidos son ***12 PM (1,672 pedidos)*** y ***1 PM (1,575 pedidos)*** ,seguidos de ***5 PM (1,370 pedidos)*** y ***7 PM (1,307 Pedidos)***
+   - Los horarios con un numero minimo de pedidos son ***10 AM (5 pedidos) y 11 PM (11 pedidos)***
+   - En promedio los clientes gastan ***$29.79*** por pedido
+   - Los productos que suelen comprarse juntos son ***hamburguer y edamame*** y cabe resaltar que este ultimo aparece en 3 de las 5 combinaciones mas comunes
+  
+3. En general la comida asiatica es la que tiene mayor relevancia y gusto en los clientes,ademas de que el edamame paraece ser un producto estrella con el cual podrian trabajarse promociones,combos etc y dado que hay horarios con un un numero minimo de pedidos podria re-distribuirse a los empleasos en horarios con mauor afluencia
    
