@@ -41,5 +41,5 @@ Identificar cuales son los productos del menú que han tenido más exito y cuale
    - En promedio los clientes gastan ***$29.79*** por pedido
    - Los productos que suelen comprarse juntos son ***hamburguer y edamame*** y cabe resaltar que este ultimo aparece en 3 de las 5 combinaciones mas comunes
   
-3. En general la comida asiatica es la que tiene mayor relevancia y gusto en los clientes,ademas de que el edamame paraece ser un producto estrella con el cual podrian trabajarse promociones,combos etc y dado que hay horarios con un un numero minimo de pedidos podria re-distribuirse a los empleasos en horarios con mauor afluencia
+3. En general la comida asiatica es la que tiene mayor relevancia y gusto en los clientes,ademas de que el edamame paraece ser un producto estrella con el cual podrian trabajarse promociones,combos etc y dado que hay horarios con un un numero minimo de pedidos podria re-distribuirse a los empleasos en horarios con mayor afluencia
    
